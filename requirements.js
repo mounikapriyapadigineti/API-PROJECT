@@ -37,3 +37,21 @@
 //to get all the publications
 //to get a specific publications
 //to get a list of publications based on a book
+
+
+//POST REQUEST
+
+// ADD NEW BOOK
+//ADD NEW AUTHOR
+//ADD NEW publication
+
+
+
+//put
+//Update book details if author is chnaged
+
+
+//delete
+//1.delete a book
+//2.delete author from book
+//3.delete author from book and related book from author
