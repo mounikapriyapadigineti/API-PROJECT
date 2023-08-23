@@ -55,3 +55,12 @@
 //1.delete a book
 //2.delete author from book
 //3.delete author from book and related book from author
+
+
+
+//schema -- blueprint of how data has to be constructed
+//MongoDB is schemaless
+//mongoose has schema
+//mongoose - validation , relationship with other data
+//model -- document model of MondoDB
+//schema -- model -- use them
